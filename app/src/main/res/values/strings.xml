@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MITP2 WordCounter</string>
+    <string name="enter_text">Įveskite tekstą</string>
+    <string name="count">Skaičiuoti</string>
+    <string name="result">Rezultatas: </string>
+    <string-array name="count_options">
+        <item>Zodziai</item>
+        <item>Rasybos Zenklai</item>
+    </string-array>
+</resources>
